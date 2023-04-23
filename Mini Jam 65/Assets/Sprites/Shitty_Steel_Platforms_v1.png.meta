@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: 2c2f54ccf5a89684fafadd431d75f10e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4857794866340784159
+    second: Shitty_Steel_Platforms_v1_0
+  - first:
+      213: 235584037025632830
+    second: Shitty_Steel_Platforms_v1_1
+  - first:
+      213: 6031711742607934179
+    second: Shitty_Steel_Platforms_v1_2
+  - first:
+      213: 5984814567416136377
+    second: Shitty_Steel_Platforms_v1_3
+  - first:
+      213: 1606188138026449823
+    second: Shitty_Steel_Platforms_v1_4
+  - first:
+      213: 7815575294570317122
+    second: Shitty_Steel_Platforms_v1_5
+  - first:
+      213: -3289691022109999577
+    second: Shitty_Steel_Platforms_v1_6
+  - first:
+      213: 3776441430695575126
+    second: Shitty_Steel_Platforms_v1_7
+  - first:
+      213: -9194193125645841117
+    second: Shitty_Steel_Platforms_v1_8
+  - first:
+      213: 5699263435497454151
+    second: Shitty_Steel_Platforms_v1_9
+  - first:
+      213: -5520530145591017674
+    second: Shitty_Steel_Platforms_v1_10
+  - first:
+      213: 4687029297283559776
+    second: Shitty_Steel_Platforms_v1_11
+  - first:
+      213: 1626540797758830889
+    second: Shitty_Steel_Platforms_v1_12
+  - first:
+      213: 773267496619285456
+    second: Shitty_Steel_Platforms_v1_13
+  - first:
+      213: -4005034391524095033
+    second: Shitty_Steel_Platforms_v1_14
+  - first:
+      213: 1208284204335313607
+    second: Shitty_Steel_Platforms_v1_15
+  - first:
+      213: -3196626733194218158
+    second: Shitty_Steel_Platforms_v1_16
+  - first:
+      213: 1028867726032794992
+    second: Shitty_Steel_Platforms_v1_17
+  - first:
+      213: -8835627460042214767
+    second: Shitty_Steel_Platforms_v1_18
+  - first:
+      213: 2797110929393354155
+    second: Shitty_Steel_Platforms_v1_19
+  - first:
+      213: 3144527809085294141
+    second: Shitty_Steel_Platforms_v1_20
+  - first:
+      213: 2422857821186185247
+    second: Shitty_Steel_Platforms_v1_21
+  - first:
+      213: -4571662575452217180
+    second: Shitty_Steel_Platforms_v1_22
+  - first:
+      213: 8061427911260302017
+    second: Shitty_Steel_Platforms_v1_23
+  - first:
+      213: 8974595460486414683
+    second: Shitty_Steel_Platforms_v1_24
+  - first:
+      213: 6912049243599277757
+    second: Shitty_Steel_Platforms_v1_25
+  - first:
+      213: 3625985931231872452
+    second: Shitty_Steel_Platforms_v1_26
+  - first:
+      213: 7588968115472089965
+    second: Shitty_Steel_Platforms_v1_27
+  - first:
+      213: 3162276181137088252
+    second: Shitty_Steel_Platforms_v1_28
+  - first:
+      213: -4260934764821774230
+    second: Shitty_Steel_Platforms_v1_29
+  - first:
+      213: -196239036907797002
+    second: Shitty_Steel_Platforms_v1_30
+  - first:
+      213: 1526067501517082765
+    second: Shitty_Steel_Platforms_v1_31
+  - first:
+      213: -7394582863903783751
+    second: Shitty_Steel_Platforms_v1_32
+  - first:
+      213: 355062317861416076
+    second: Shitty_Steel_Platforms_v1_33
+  - first:
+      213: -5621040733924226312
+    second: Shitty_Steel_Platforms_v1_34
+  - first:
+      213: -2774058576395763616
+    second: Shitty_Steel_Platforms_v1_35
+  - first:
+      213: -5725990438175473061
+    second: Shitty_Steel_Platforms_v1_36
+  - first:
+      213: 5407489107740449762
+    second: Shitty_Steel_Platforms_v1_37
+  - first:
+      213: 6265235300832718834
+    second: Shitty_Steel_Platforms_v1_38
+  - first:
+      213: -1195994632446309335
+    second: Shitty_Steel_Platforms_v1_39
+  - first:
+      213: -606399022410923651
+    second: Shitty_Steel_Platforms_v1_40
+  - first:
+      213: 5536090426248015023
+    second: Shitty_Steel_Platforms_v1_41
+  - first:
+      213: -5341384769731229507
+    second: Shitty_Steel_Platforms_v1_42
+  - first:
+      213: 524737029717294949
+    second: Shitty_Steel_Platforms_v1_43
+  - first:
+      213: 6464579079525274397
+    second: Shitty_Steel_Platforms_v1_44
+  - first:
+      213: 454694521346783428
+    second: Shitty_Steel_Platforms_v1_45
+  - first:
+      213: -2375786248073014126
+    second: Shitty_Steel_Platforms_v1_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1865f771ba5a6340800000000000000
+      internalID: 4857794866340784159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e325aa9fe66f44300800000000000000
+      internalID: 235584037025632830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b20c61e3255e0350800000000000000
+      internalID: 5984814567416136377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b33810a935a4610800000000000000
+      internalID: 1606188138026449823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245ce2c5250867c60800000000000000
+      internalID: 7815575294570317122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e7756e17ba852d0800000000000000
+      internalID: -3289691022109999577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e7da7097d986430800000000000000
+      internalID: 3776441430695575126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d8a8da01aa76080800000000000000
+      internalID: -9194193125645841117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 40
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ab23a06e9d71f40800000000000000
+      internalID: 5699263435497454151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 40
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0617f6c105cab0140800000000000000
+      internalID: 4687029297283559776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929781fdc32a29610800000000000000
+      internalID: 1626540797758830889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db1954f0b23bba00800000000000000
+      internalID: 773267496619285456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbcbf3c0724b68c0800000000000000
+      internalID: -4005034391524095033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c23f130510b4c010800000000000000
+      internalID: 1208284204335313607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255f0703cec43a3d0800000000000000
+      internalID: -3196626733194218158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1923f7463ab816580800000000000000
+      internalID: -8835627460042214767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba58adf029551d620800000000000000
+      internalID: 2797110929393354155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36cdd6c16b93ab20800000000000000
+      internalID: 3144527809085294141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18541df958bf9120800000000000000
+      internalID: 2422857821186185247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0293dfb113e80c0800000000000000
+      internalID: -4571662575452217180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe0eba5a288cef50800000000000000
+      internalID: 6912049243599277757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5c3af3ef6125230800000000000000
+      internalID: 3625985931231872452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63ca7efa4e615960800000000000000
+      internalID: 7588968115472089965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeda5aae69a2eb20800000000000000
+      internalID: 3162276181137088252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_29
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a608fa3286e1ed4c0800000000000000
+      internalID: -4260934764821774230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5cb0ab2a1d64df0800000000000000
+      internalID: -196239036907797002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d809133ae4ead2510800000000000000
+      internalID: 1526067501517082765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2c2bd5fd1f4b350800000000000000
+      internalID: 6031711742607934179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f3634e4132363b0800000000000000
+      internalID: -5520530145591017674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0757c03eeb5474e00800000000000000
+      internalID: 1028867726032794992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294995daef2870fd0800000000000000
+      internalID: -2375786248073014126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shitty_Steel_Platforms_v1_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b514029950b2c8c70800000000000000
+      internalID: 8974595460486414683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

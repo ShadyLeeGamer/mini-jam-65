@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 54af0eda984f0eb419c6b9dbd311373d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5805805194035052597
+    second: Barriers_crystals_crates_and_more_oh_my_0
+  - first:
+      213: -1164844243213626194
+    second: Barriers_crystals_crates_and_more_oh_my_1
+  - first:
+      213: 5454362848333900989
+    second: Barriers_crystals_crates_and_more_oh_my_2
+  - first:
+      213: 3711054599470276668
+    second: Barriers_crystals_crates_and_more_oh_my_3
+  - first:
+      213: 7638178502969186176
+    second: Barriers_crystals_crates_and_more_oh_my_4
+  - first:
+      213: 7576746606069059955
+    second: Barriers_crystals_crates_and_more_oh_my_5
+  - first:
+      213: 7063629269544897380
+    second: Barriers_crystals_crates_and_more_oh_my_6
+  - first:
+      213: 6321563881659605921
+    second: Barriers_crystals_crates_and_more_oh_my_7
+  - first:
+      213: 4117242593363337239
+    second: Barriers_crystals_crates_and_more_oh_my_8
+  - first:
+      213: -3735607232751194289
+    second: Barriers_crystals_crates_and_more_oh_my_9
+  - first:
+      213: 3071305302664150486
+    second: Barriers_crystals_crates_and_more_oh_my_10
+  - first:
+      213: -2804125058240563907
+    second: Barriers_crystals_crates_and_more_oh_my_11
+  - first:
+      213: -9148434635044846457
+    second: Barriers_crystals_crates_and_more_oh_my_12
+  - first:
+      213: 3797086946524078771
+    second: Barriers_crystals_crates_and_more_oh_my_13
+  - first:
+      213: 8615513967080290823
+    second: Barriers_crystals_crates_and_more_oh_my_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Barriers_crystals_crates_and_more_oh_my_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf3c6ebfe2ad6fa0800000000000000
+      internalID: -5805805194035052597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barriers_crystals_crates_and_more_oh_my_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4d7981554a5dfe0800000000000000
+      internalID: -1164844243213626194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barriers_crystals_crates_and_more_oh_my_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbca703bc1ac1bb40800000000000000
+      internalID: 5454362848333900989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barriers_crystals_crates_and_more_oh_my_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3061870f70508330800000000000000
+      internalID: 3711054599470276668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barriers_crystals_crates_and_more_oh_my_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087d08031e2400a60800000000000000
+      internalID: 7638178502969186176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barriers_crystals_crates_and_more_oh_my_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37194e715e2062960800000000000000
+      internalID: 7576746606069059955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barriers_crystals_crates_and_more_oh_my_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b864c556d070260800000000000000
+      internalID: 7063629269544897380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barriers_crystals_crates_and_more_oh_my_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3a2477bd4bab750800000000000000
+      internalID: 6321563881659605921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barriers_crystals_crates_and_more_oh_my_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710a7871352632930800000000000000
+      internalID: 4117242593363337239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barriers_crystals_crates_and_more_oh_my_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f2c7f8305782cc0800000000000000
+      internalID: -3735607232751194289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barriers_crystals_crates_and_more_oh_my_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddf11a76e77f9a20800000000000000
+      internalID: 3071305302664150486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barriers_crystals_crates_and_more_oh_my_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35bccdcd1fb519d0800000000000000
+      internalID: -2804125058240563907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barriers_crystals_crates_and_more_oh_my_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 24
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abc3d5e44709770800000000000000
+      internalID: 8615513967080290823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
